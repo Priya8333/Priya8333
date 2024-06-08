@@ -2,8 +2,7 @@
 -👀 I’m interested in exploring tech domain through web development and traversing dsa.
 - 🌱 I’m currently learning dsa and web development.
 - 💞️ I’m looking to collaborate on web development related projects.
-
-  ##Connect With Me
+  Connect With Me
   furious5670.fu@gmail.com
   
 
