@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋! My name is Priya Darshini and I'm  passionate developer from India</h2>
 
-###
 
-<img align="right" height="150" src=""  />
 
 ###
-
+Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
