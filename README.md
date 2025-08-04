@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m a developor from India.My work involves optimizing performance, enhancing user experience, and ensuring high code quality through robust design and testing practices.<br><br>👯 I’m looking to collaborate on:<br>I’m excited to collaborate on innovative projects that leverage full-stack development, especially those involving microservices architecture and API integration. I’m particularly interested in projects that push the boundaries of web technologies and create impactful user experiences.<br><br>🤝 I’m looking for help with:<br>As I continue to grow in my career, I’m seeking mentorship and advice from experienced professionals in the tech industry. I’m also open to feedback and suggestions on how to further enhance my skills and knowledge, particularly in performance optimization and advanced backend development.<br><br>🌱 I’m currently learning:<br>I’m diving deep into advanced JavaScript frameworks and libraries, such as NextJS and Redux Toolkit. Fun fact:<br>When I’m not coding, you’ll find me exploring the latest tech trends, experimenting with new programming languages, or contributing to open-source projects. I’m a firm believer in continuous learning and love to challenge myself with new and exciting tech adventures.
-
+🔍 I’m a developer from India, currently exploring the world of data analytics.
+📊 I'm working with tools like Excel, Python, Pandas, and Power BI to draw insights from data and solve real-world problems.
+🌱 Constantly learning and growing—right now, I'm diving deeper into data visualization, SQL, and business intelligence tools.
+🤝 Always open to collaboration, feedback, and meaningful connections in the tech and analytics space!
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/priya-darshini-nagar-25648124b)) 
